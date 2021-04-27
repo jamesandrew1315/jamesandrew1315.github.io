@@ -1,0 +1,2 @@
+#page\#0-0-0-0 .el-image{ max-height: 200px; } @media(min-width: 960px){ #page\#1-1-0-1 .el-image{ max-height: 100px; } } @media (max-width: 960px){ #page\#2-1-0-0 .timeline-item-container{ padding-left: 50px !important; } } 
+.uk-navbar-nav>li>a.uk-active,.uk-light .uk-navbar-nav>li>a.uk-active{color: #d4c3c3}
