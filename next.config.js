@@ -11,8 +11,6 @@ const nextConfig = {
   // Only enable these settings when building for production (GitHub Pages)
   ...(process.env.NODE_ENV === 'production' ? {
     output: 'export',
-    basePath: '/new-pf',
-    assetPrefix: '/new-pf/',
   } : {})
 }
 
