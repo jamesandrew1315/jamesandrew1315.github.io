@@ -13,9 +13,8 @@ const Hero = () => {
               <span className="block text-blue-600 mt-3">James Andrew Tamayo</span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg sm:text-xl text-gray-600">
-              I am a front-end developer who loves creating and exploring new things when it comes to the web. 
-              I show huge interest in innovation and my goal is to provide solutions for people's lives to be 
-              better with the help of technology.
+              I love exploring new ideas on the web and turning them into innovative solutions that improve people's lives. 
+              Experienced in modern frameworks, CMS platforms, and collaborative development.
             </p>
 
             {/* CTA Buttons */}
